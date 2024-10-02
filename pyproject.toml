@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyocd-mpsse"
-version = "0.1.0"
+version = "0.1.1"
 description = "PyOCD debug probe plugin for the MPSSE mode of FTDI chips"
 authors = ["Andreas Fritiofson <andreas@fritiofson.net>"]
 license = "Apache-2.0"
